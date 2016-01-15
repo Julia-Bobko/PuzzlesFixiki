@@ -45,3 +45,14 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+*backup*
+*deploy*
+*debug*
+*release*
+bin
+*.user
+*.suo
+*puzzlemashi.10.0*
+*puzzlemash.8.1*
+*screen*
